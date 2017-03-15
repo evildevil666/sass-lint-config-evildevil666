@@ -1,0 +1,30 @@
+{
+  "name": "sass-lint-config-evildevil666",
+  "version": "0.0.1",
+  "description": "scss and sass code style used",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evildevil666/sass-lint-config-evildevil666.git"
+  },
+  "keywords": [
+    "sass-lint",
+    "sass-lint-config",
+    "evildevil666"
+  ],
+  "author": "Aruna Jyothi Vajje (aruna.577@gmail.com)",
+  "license": "MIT",
+  "peerDependencies": {
+    "sass-lint": "^1.10.2"
+  },
+  "bugs": {
+    "url": "https://github.com/evildevil666/sass-lint-config-evildevil666/issues"
+  },
+  "homepage": "https://github.com/evildevil666/sass-lint-config-evildevil666#readme",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
